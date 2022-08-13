@@ -1,0 +1,27 @@
+{
+    "u1604": {
+        "host": "192.168.56.254",
+        "user": "root",
+        "passwd": "linux.password",
+        "port": 22,
+        "shells": {
+            "linux": "root@u1604:"
+        }
+    },
+    "uas": {
+        "host": "192.168.56.254",
+        "user": "root",
+        "passwd": "linux.password",
+        "port": 22,
+        "uas_root": "/opt",
+        "shells": {
+            "linux": "root@u1604:"
+        },
+        "jumper": [{
+            "host": "192.168.56.254",
+            "user": "root",
+            "passwd": "linux.password",
+            "port": 22
+        }]
+    }
+}

@@ -1,0 +1,8 @@
+.idea
+results.log
+*.json
+*.pyc
+log
+*.log
+.uas.lock
+*.csv
